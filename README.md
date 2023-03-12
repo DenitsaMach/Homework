@@ -8,3 +8,4 @@
 - No.3 Python Calculator *(code in Python)*
 - No.4 Wordle Game *(code in Jupyter notebooks)*
 - No.5 Basic Linux Commands *(play in the terminal)*
+- No.6 Bash script *(./1.sh)*
