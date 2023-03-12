@@ -7,3 +7,4 @@
 - No.2 Set up DevTest Lab *(create and claim a lab VM)*
 - No.3 Python Calculator *(code in Python)*
 - No.4 Wordle Game *(code in Jupyter notebooks)*
+- No.5 Basic Linux Commands *(play in the terminal)*

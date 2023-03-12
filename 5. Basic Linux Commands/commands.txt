@@ -1,0 +1,19 @@
+1. echo -e "Mimi\nPoli\nRoli\n" > friends.txt
+2. cat friends.txt
+3. mv friends.txt bestfriends.txt
+4. cp bestfriends.txt sysadmins.txt
+5. ls b*.txt
+6. wc -c sysadmins.txt
+7. cat > cars.txt
+Moskvich
+Lada
+Volga
+Jigula
+Zaz
+Ctrl+D
+8. du -b cars.txt
+9. mkdir tmp
+   cp cars.txt tmp/cars.txt
+10. ls tmp/*.txt
+11. cp tmp/cars.txt tmp/vehicles.txt
+12. less /etc/passwd
